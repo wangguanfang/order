@@ -13,7 +13,7 @@
             <a class="navbar-brand">
                 <small>
                     <i class="icon-leaf"></i>
-                    wyl家常菜
+                    xx家常菜
                 </small>
             </a><!-- /.brand -->
         </div><!-- /.navbar-header -->
